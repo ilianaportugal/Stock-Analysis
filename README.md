@@ -9,7 +9,7 @@ A client has asked if I can perform research on an array of stocks for investmen
 
 ## Results
 ### Analysis
-
+By refactoring the data I saw increased speeds for both the 2018 and 2017 data sets.
 <img src="Images/VBA_Challenge_2017.png" width="400" >
 
 <img src="Images/VBA_Challenge_2018.png" width="400" >
@@ -22,5 +22,7 @@ Some of the main advantages of refractoring your code in VBA include: greater ef
 Refactoring code can be time consuming.
 
 ### Advantages of Refactoring in the VBA Challenge
+One of the main advantages of refactoring the code is the increased speed at which it populates the data. This will be beneficial with larger data sets.
 
 ### Disadvantages of Refactoring in the VBA Challenge
+The main disadvantage in refactoring is that it can be time consuming and tedious to complete the task.
