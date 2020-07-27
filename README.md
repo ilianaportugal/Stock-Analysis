@@ -5,7 +5,7 @@
 The purpose of this project is to analyze 12 stocks in terms of Total Volume and Return.
 
 ### Background
-A client has asked if I can perform research on an array of stocks for investment purposes.
+A client has asked if I can perform research on an array of stocks for investment purposes. The client is interested in using this code for a larger dataset, I am refactoring the code in order to increase the speed at which it runs.
 
 ## Results
 ### Analysis
