@@ -2,17 +2,21 @@
 
 ## Overview of Project
 ### Purpose
+The purpose of this project is to analyze 12 stocks in terms of Total Volume and Return.
 
 ### Background
+A client has asked if I can perform research on an array of stocks for investment purposes.
 
 ## Results
 ### Analysis
 
 ## Summary
-### Advantages of Refractoring
+### Advantages of Refactoring
+Some of the main advantages of refractoring your code in VBA include: greater efficiency, reduced memory use, and improved logic. By editing the code we can make it easier to work with, improving  readability and reducing complexity.
 
-### Disadvantages
+### Disadvantages of Refactoring
+Refactoring code can be time consuming.
 
-### Advantages in this Situation
+### Advantages of Refactoring in the VBA Challenge
 
-### Disadvantages in this Situation
+### Disadvantages of Refactoring in the VBA Challenge
