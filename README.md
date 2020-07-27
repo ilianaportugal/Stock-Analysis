@@ -10,6 +10,10 @@ A client has asked if I can perform research on an array of stocks for investmen
 ## Results
 ### Analysis
 
+<img src="Images/VBA_Challenge_2017.png" width="400" >
+
+<img src="Images/VBA_Challenge_2018.png" width="400" >
+
 ## Summary
 ### Advantages of Refactoring
 Some of the main advantages of refractoring your code in VBA include: greater efficiency, reduced memory use, and improved logic. By editing the code we can make it easier to work with, improving  readability and reducing complexity.
