@@ -10,9 +10,17 @@ A client has asked if I can perform research on an array of stocks for investmen
 ## Results
 ### Analysis
 By refactoring the data I saw increased speeds for both the 2018 and 2017 data sets.
+
 <img src="Images/VBA_Challenge_2017.png" width="400" >
 
 <img src="Images/VBA_Challenge_2018.png" width="400" >
+
+The original time it took to run was 4.46 seconds and 4.54, respectively.
+
+<img src="Images/VBA_Challenge_2017_(Original).png" width="400" >
+
+<img src="Images/VBA_Challenge_2018_(Original).png" width="400" >
+
 
 ## Summary
 ### Advantages of Refactoring
